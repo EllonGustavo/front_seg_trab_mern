@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/front_seg_trab_mern/static/js/main.35ebba7d.chunk.js",
+    "main.js.map": "/front_seg_trab_mern/static/js/main.35ebba7d.chunk.js.map",
+    "runtime-main.js": "/front_seg_trab_mern/static/js/runtime-main.80201082.js",
+    "runtime-main.js.map": "/front_seg_trab_mern/static/js/runtime-main.80201082.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/front_seg_trab_mern/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.1986f54b.chunk.js": "/front_seg_trab_mern/static/js/2.1986f54b.chunk.js",
+    "static/js/2.1986f54b.chunk.js.map": "/front_seg_trab_mern/static/js/2.1986f54b.chunk.js.map",
+    "index.html": "/front_seg_trab_mern/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/front_seg_trab_mern/static/css/2.4c97ca4f.chunk.css.map",
+    "static/js/2.1986f54b.chunk.js.LICENSE.txt": "/front_seg_trab_mern/static/js/2.1986f54b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80201082.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.1986f54b.chunk.js",
+    "static/js/main.35ebba7d.chunk.js"
+  ]
+}
